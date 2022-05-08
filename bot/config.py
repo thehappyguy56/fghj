@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "1867442972" # Sepearted by space.
+    BOT_TOKEN = "5128015251:AAH6U3zmFyAKJe3nxiIGUCLRew65mkMZOZk"
+    APP_ID = "11647359"
+    API_HASH = "9ddec3691b4d1eb152f317887055a989"
+    DATABASE_URL = "postgres://yddnstskaqshjz:620e505783318664592c9d635aa4c772d021e4bbe7f9b81b675bf191a3296163@ec2-18-210-64-223.compute-1.amazonaws.com:5432/d68tdeas09mjg7"
+    SUDO_USERS = "1850170334" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "415727526521-gch0v11dquvbnj629a7ugentg92gsabp.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "https://t.me/Eternal_mangekeyo_sharingan"
 
 
 class BotCommands:
