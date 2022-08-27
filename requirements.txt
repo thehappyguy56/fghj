@@ -13,3 +13,5 @@ google-auth-oauthlib
 youtube_dl
 ffmpeg
 tenacity
+libsqlite3-dev
+pysqlite
