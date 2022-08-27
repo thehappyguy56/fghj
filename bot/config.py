@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class config:
     BOT_TOKEN = "5400298903:AAGuy5PRLD_eZEvZ2DF9fkDkG6ixSL8njmI"
     APP_ID = "11647359"
